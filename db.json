@@ -1,16 +1,44 @@
 {
-  "posts":[
+  "games": [
     {
-      "id" : 0,
-      "title": "First post!",
-      "content" : "My first content!"
-    }
-  ],
-  "comments" : [
+      "id": 2,
+      "name": "Persona 5 Strikers",
+      "image": "https://cdn.thegamesdb.net/images/original/boxart/front/83188-1.jpg"
+    },
     {
-      "id": 0,
-      "content": "Wow such content!",
-      "username": "zero_cool"
+      "id": 3,
+      "name": "Star Wars Jedi Fallen Order",
+      "image": "https://cdn.thegamesdb.net/images/original/boxart/front/64819-1.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Octopath Traveler",
+      "image": "https://cdn.thegamesdb.net/images/original/boxart/front/66669-1.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Dying Light 2",
+      "image": "https://cdn.thegamesdb.net/images/original/boxart/front/64826-1.jpg"
+    },
+    {
+      "id": 6,
+      "name": "Horizon Zero Dawn",
+      "image": "https://cdn.thegamesdb.net/images/original/boxart/front/76108-1.jpg"
+    },
+    {
+      "id": 7,
+      "name": "Dishonored 2",
+      "image": "https://cdn.thegamesdb.net/images/original/boxart/front/40970-1.jpg"
+    },
+    {
+      "id": 8,
+      "name": "Batman Arkham knight",
+      "image": "https://cdn.thegamesdb.net/images/original/boxart/front/21456-1.jpg"
+    },
+    {
+      "name": "Xenoblade Chronicles Definitive Edition",
+      "image": "https://cdn.thegamesdb.net/images/original/boxart/front/66208-1.jpg",
+      "id": 9
     }
   ]
 }
